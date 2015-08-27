@@ -14,7 +14,8 @@ $config['googleplus']['api_key']          = '';
 $config['googleplus']['scopes']           = array();
 ```
 
-on application->config->googleplus.php with your key and configuration -- --
+on application->config->googleplus.php with your key and configuration
+
 the $config['googleplus']['redirect_uri']     = ''; is callback url for authenticate user info..in my case i put authenticate in Welcome controller and index function..so for example my redirect uri is :
 ```
 $config['googleplus']['redirect_uri']     = 'http://localhost/my_directory/';
