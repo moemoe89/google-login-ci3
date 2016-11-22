@@ -2,7 +2,7 @@
 Google Login with Codeigniter 3
 
 ## Demo
-> http://demo.momo.my.id/ci_google/
+> https://google-login-ci3.herokuapp.com/
 
 change
 ```
